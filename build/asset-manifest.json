@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45ac161c.css",
+    "main.js": "/static/js/main.71962019.js",
+    "static/js/787.57e83925.chunk.js": "/static/js/787.57e83925.chunk.js",
+    "static/media/doctor.png": "/static/media/doctor.ad92bca3187e457a521c.png",
+    "static/media/img-carosal.png": "/static/media/img-carosal.f83270180f11d0eeb2a7.png",
+    "static/media/image_14.png": "/static/media/image_14.a4b60c8ddafa3c5e5ff7.png",
+    "static/media/Rectangle_163.png": "/static/media/Rectangle_163.e382b6e346bd28d0798b.png",
+    "static/media/PPTelegraf-Regular.otf": "/static/media/PPTelegraf-Regular.7a1d1a884ed6f9b965c1.otf",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.45ac161c.css.map": "/static/css/main.45ac161c.css.map",
+    "main.71962019.js.map": "/static/js/main.71962019.js.map",
+    "787.57e83925.chunk.js.map": "/static/js/787.57e83925.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ac161c.css",
+    "static/js/main.71962019.js"
+  ]
+}
